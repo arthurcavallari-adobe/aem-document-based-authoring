@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--aem-document-based-authoring--arthurcavallari.aem.page/
+- Live: https://main--aem-document-based-authoring--arthurcavallari.aem.live/
 
 ## Documentation
 
