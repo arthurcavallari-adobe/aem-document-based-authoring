@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1ShaXi5s6BbeBWi8LYSGwDN9grzC_GeiW
+  /:
+    url: https://content.da.live/arthurcavallari-adobe/aem-document-based-authoring/
+    type: markup
